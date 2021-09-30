@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hello 👋
 
+I am GIS data analyst based in the Los Angeles area. I'm an avid coffee drinker, a lover of beautiful maps, a cat lady and Depeche Mode's biggest fan, depending on what day of the week you ask me. The last two are the only two that never change.
+
+I started my career working in the environmental planning industry. Several years ago I taught a GIS course at my alma mater (it was harder than I thought it'd be). At some point I worked at [Weedmaps](https://weedmaps.com/) making awesome things happen through the power of geospatial data. Most recently, I work in local government on projects ranging from data analysis, address dataset maintenance for dispatch and because 2020, I too have made Covid dashboards.
+
+I've always been interested in code. In November of 2020, I decided to take a serious approach to learning to code. I found [Launch School](https://launchschool.com/mastery) and have been working through their curriculum since then. I'm super excited to be able to apply the skills I learn there to my day-to-day work. This github profile is almost exclusively material I produce as a byproduct of completing Launch School coursework.
+
+  Current course-- Ruby fundamentals.
 <!--
 **iselasoria/iselasoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
