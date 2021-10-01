@@ -6,7 +6,7 @@ I started my career working in the environmental planning industry. Several year
 
 I've always been interested in code. In November of 2020, I decided to take a serious approach to learning to code. I found [Launch School](https://launchschool.com/mastery) and have been working through their curriculum since then. I'm super excited to be able to apply the skills I learn there to my day-to-day work. This github profile is almost exclusively material I produce as a byproduct of completing Launch School coursework.
 
-  Current course-- Ruby fundamentals.
+  Current course-- Fundamentals of Programming with Ruby
 <!--
 **iselasoria/iselasoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
