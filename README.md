@@ -1,10 +1,10 @@
 ### Hello 👋
 
-I am GIS data analyst based in the Los Angeles area. I'm an avid coffee drinker, a lover of beautiful maps, a cat lady and Depeche Mode's biggest fan, depending on what day of the week you ask me. The last two are the only two that never change.
+I am a former GIS data analyst based in the Los Angeles area. I'm an avid coffee drinker, a lover of beautiful maps, a cat lady and Depeche Mode's biggest fan, depending on what day of the week you ask me. The last two are the only two that never change.
 
-I started my career working in the environmental planning industry. Several years ago I taught a GIS course at my alma mater (it was harder than I thought it'd be). At some point I worked at [Weedmaps](https://weedmaps.com/) making awesome things happen through the power of geospatial data. Most recently, I work in local government on projects ranging from data analysis, address dataset maintenance for dispatch and because 2020, I too have made Covid dashboards.
+I started my career working in the environmental planning industry. Several years ago I taught a GIS course at my alma mater (it was harder than I thought it'd be). At some point I worked at [Weedmaps](https://weedmaps.com/) making awesome things happen through the power of geospatial data. I've worked in local government on projects ranging from data analysis, address dataset maintenance for dispatch and because 2020, I too have made Covid dashboards. Most recently, I worked as a data engineer at [Near](https://near.com/) but after company-wide lay-offs, that came to an end. 
 
-I've always been interested in code. In November of 2020, I decided to take a serious approach to learning to code. I found [Launch School](https://launchschool.com/mastery) and have been working through their curriculum since then. I'm super excited to be able to apply the skills I learn there to my day-to-day work. This github profile is almost exclusively material I produce as a byproduct of completing Launch School coursework.
+In November of 2020, I decided to take a serious approach to learning to code. I found [Launch School](https://launchschool.com/mastery) and worked through their curriculum until I took the data engineering job. Now, I am back to the Launch School curriculum. This github profile is almost exclusively material I produce as a byproduct of completing Launch School coursework.
 
   Current course-- Fundamentals of Programming with Ruby
 <!--
