@@ -10,6 +10,7 @@ In November of 2020, I decided to take a serious approach to learning to code. I
 
 Completed Courses: 
 - Fundamentals of Programming with Ruby
+- https://www.codewars.com/users/iselasoria/badges/small
 <!--
 **iselasoria/iselasoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
