@@ -8,11 +8,12 @@ In November of 2020, I decided to take a serious approach to learning to code. I
   
   
 
-  - Current course-- Assessment Ruby and General Programming
+  - Current course-- Object Oriented Programming
   - [Current Codewars Progress](https://www.codewars.com/users/iselasoria/badges/small)
   
 Completed Courses: 
 - Fundamentals of Programming with Ruby
+- Assessment Ruby and General Programming
 <!--
 **iselasoria/iselasoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
