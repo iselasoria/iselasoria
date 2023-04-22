@@ -8,12 +8,13 @@ After layoffs at my last company, I decided to focus my efforts on making a soli
   
   
 
-  - Current course-- Object Oriented Programming
+  - Current course-- Assessment Object Oriented Programming
   - [Current Codewars Progress](https://www.codewars.com/users/iselasoria/badges/small)
   
 Completed Courses: 
 - Fundamentals of Programming with Ruby
 - Assessment Ruby and General Programming
+- Object Oriented Programming
 <!--
 **iselasoria/iselasoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
